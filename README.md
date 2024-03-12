@@ -2,7 +2,7 @@ Travel Site HTML and CSS Code
 Description:
 This repository contains the code for a travel website. The website is designed to showcase various destinations, encourage travel bookings, and provide information about travel experiences.
 HTML:
-Structure: The HTML file (index.html) defines the structure of the website using standard HTML elements like <div>, <ul>, <li>, <h1>, <p>, and <img>.
+Structure: The HTML file (index.html) defines the structure of the website using standard HTML elements.
 Layout: The layout is divided into sections such as navigation, main content, testimonials, contact form, and footer.
 Styling: Inline styles and classes are used to style the HTML elements.
 CSS:
