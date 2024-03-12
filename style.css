@@ -673,25 +673,6 @@ height: 100%;
   word-spacing: 5px;
   margin-bottom: 15px;
 }
-
-.eightharrowDivLast{
-  position: absolute;
-  border: 2px solid black;
-  padding: 24px 15px;
-  border-radius: 7px;
-  background-color: #eeeeee;
-  right: -31px;
-  bottom: 41%;
-  width: fit-content;
-  margin: auto;
-  height: 0px;
-}
-
-.eighthGraphTop{
-  position: absolute;
-  left: -13%;
-  top: 0;
-}
 .curvedesign{
   width: 32.4%;
   padding-top: 22px;
@@ -757,6 +738,7 @@ input::placeholder, textarea::placeholder{
   border-radius: 3px;
   font-size: 14px;
   margin-top: 39px;
+  font-family: Lato;
 }
 .imagearea{
   float: right;
